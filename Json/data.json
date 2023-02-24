@@ -1,0 +1,44 @@
+{
+    "Info": {
+        "name":{
+            "first-name":"Youssef",
+            "last-name" :"Mahmoud"
+        },
+        "accounts-lists":{
+            "facebook-name":"Youssef mekkawy",
+            "instgram-name":"none"
+        }
+    },
+    "More-Info":{
+        "Zero": "0"
+    },
+    "data": [
+        {
+            "MainId": 1111,
+            "firstName": "Sherlock",
+            "lastName": "Homes",
+            "categories": [
+                {
+                    "CategoryID": 1,
+                    "CategoryName": "Example"
+                }
+            ]
+        },
+        {
+            "MainId": 122,
+            "firstName": "James",
+            "lastName": "Watson",
+            "categories": [
+                {
+                    "CategoryID": 2,
+                    "CategoryName": "Example2"
+                }
+            ]
+        }
+    ],
+    "messages": [],
+    "success": true
+}
+
+
+
